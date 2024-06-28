@@ -30,8 +30,7 @@ python 코드를 사용한 실습이지만, 프로그램의 경험이나 개념�
     - 임베딩
         - OpenAI의 임베딩 소개글 : https://openai.com/index/introducing-text-and-code-embeddings/
         - 임베딩 실습 : [how_to_embedding.ipynb](material/how_to_embedding.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/2024_ai_workshop/blob/main/material/how_to_embedding.ipynb)
-    - 임베딩을 사용한 커스텀 QnA 엔진 실습 : https://openai.com/index/introducing-text-and-code-embeddings/
-        - 임베딩 실습 : [customer_qna_engine.ipynb](material/customer_qna_engine.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/2024_ai_workshop/blob/main/material/customer_qna_engine.ipynb)
+    - 임베딩을 사용한 커스텀 QnA 엔진 실습 : [customer_qna_engine.ipynb](material/customer_qna_engine.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/2024_ai_workshop/blob/main/material/customer_qna_engine.ipynb)
 
 <br>
 
