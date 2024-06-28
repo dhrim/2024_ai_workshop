@@ -12,12 +12,13 @@ python 코드를 사용한 실습이지만, 프로그램의 경험이나 개념�
 # 프로그램
 
 - AI의 이해 [AI의_이해.pptx](AI의_이해.pptx)
-- 딥러닝 실습 [dnn_intro.ipynb](material/dnn_intro.ipynb)
+- 딥러닝 실습 [dnn_intro.ipynb](material/dnn_intro.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/2024_ai_workshop/blob/main/material/dnn_intro.ipynb)
     - 최소 DNN 코드 실습
     - 영상 데이터의 이해
     - 영상 데이터 분류, 컬러영상 데이터 분류
     - 영상 데이터 회귀
-- 딥러닝 활용
+- 딥러닝 활용 [dnn_application.ipynb](material/dnn_application.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/2024_ai_workshop/blob/main/material/dnn_application.ipynb)
+    - 최소 DNN 코드 실습
 
 
 <br>
